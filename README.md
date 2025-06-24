@@ -11,7 +11,7 @@
 
 - 🛠 I specialize in developer relations, developer education, and community-led growth for dev tool platforms.
 - 🔭 I’ve led developer marketing and DevRel efforts at blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ developers
-- ✍🏽 I write about Web3, developer growth, and B2D product marketing at ([https://blog.iamtrust.xyz](https://blog.iamtrust.xyz/))
+- ✍🏽 I write about Web3, developer growth, and B2D product marketing at [https://blog.iamtrust.xyz](https://blog.iamtrust.xyz/)
 - ✉️ Reach me at: [onyekweretrust@gmail.com](mailto:onyekweretrust@gmail.com)  
 
 
