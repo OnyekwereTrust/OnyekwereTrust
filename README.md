@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trust Onyekwere</h1>
-<h3 align="center">Developer Relations & Technical Content Manager</h3>
+<h3 align="center">Developer Marketing & Relations Manager</h3>
 
 ---
 
