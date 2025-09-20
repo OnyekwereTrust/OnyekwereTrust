@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 
-- 🛠 I specialize in developer relations, developer education, and community-led growth for dev tool & platforms.
-- 🔭 I led developer relations at blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ developers
+- 🛠 I specialize in developer relations, developer education, and community-led growth for dev tools & platforms.
+- 🔭 I led developer relations at AI & blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ developers
 - ✍🏽 I write about AI, blockchain, and developer marketing at [https://blog.iamtrust.xyz](https://medium.com/@tjah)
 - ✉️ Reach me at: [onyekweretrust@gmail.com](mailto:onyekweretrust@gmail.com)  
 
