@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 
-- I specialize in product and developer relations for tech tools & platforms.
-- I led product and marketing strategy at AI & blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ users
+- I build and advocate for AI products
+- I lead product and marketing strategy at AI & blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ users
 - I write about AI and product at [https://blog.iamtrust.xyz](https://medium.com/@tjah)
 - ✉️ Reach me at: [onyekweretrust@gmail.com](mailto:onyekweretrust@gmail.com)  
 
