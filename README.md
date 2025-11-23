@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Trust Onyekwere</h1>
-<h3 align="center">AI Builder & Developer Advocate</h3>
+<h3 align="center">Builder & Developer Advocate</h3>
 
 ---
 
 ### 🚀 About Me
 
-- I build and advocate for AI products
+- I build and advocate for AI & Web3 products
 - I lead product and marketing strategy at AI & blockchain startups like Bunzz and AnyAlt, helping onboard over 30,000+ users
 - I write about AI and product at [https://blog.iamtrust.xyz](https://medium.com/@tjah)
 - ✉️ Reach me at: [onyekweretrust@gmail.com](mailto:onyekweretrust@gmail.com)  
