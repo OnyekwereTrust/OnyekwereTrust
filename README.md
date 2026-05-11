@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- I build and advocate for AI & Web3 products
+- I build and advocate for AI products
 - I lead product and developer relations strategy at AI startups like Bunzz and AnyAlt, helping onboard over 30,000+ developers
 - I write about AI and product at [https://blog.iamtrust.xyz](https://medium.com/@tjah)
 - ✉️ Reach me at: [onyekweretrust@gmail.com](mailto:onyekweretrust@gmail.com)  
