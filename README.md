@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trust Onyekwere</h1>
-<h3 align="center">Applied AI Engineer & Developer Advocate</h3>
+<h3 align="center">Applied AI & Developer Advocate</h3>
 
 ---
 
